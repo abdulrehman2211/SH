@@ -1,0 +1,30 @@
+/* src/index.css or src/App.css or your main CSS file */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+  Custom base styles for the body.
+  We are explicitly setting our custom 'font-sans' (e.g., Inter) 
+  and 'text-text-primary' color as defaults for the entire application.
+*/
+body {
+  margin: 0; /* Preflight also handles this, but it's fine to be explicit */
+
+  /* Apply your custom sans-serif font family defined in tailwind.config.js */
+  @apply font-sans;
+
+  /* Apply a default text color from your Tailwind config */
+  @apply text-text-primary; /* Make sure 'text-primary' is defined in your tailwind.config.js colors */
+
+  /* For smoother font rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Styles for <code> elements, using a monospace font stack */
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cotton T-Shirt",
+    "price": 24.99,
+    "description": "A comfortable and versatile 100% cotton t-shirt, perfect for everyday wear. Available in multiple colors.",
+    "category": "Apparel",
+    "image": "https://www.fairindigo.com/cdn/shop/files/BG_OF_04750_Tomato_Cream_SS25_0981.jpg?v=1741368255"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.50,
+    "description": "High-fidelity wireless headphones with noise-cancellation and a 20-hour battery life. Includes a carrying case.",
+    "category": "Electronics",
+    "image": "https://barki.pk/wp-content/uploads/2024/02/f05cde9ff50a79e06f2f6146d40c6a3a.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leatherbound Journal",
+    "price": 15.00,
+    "description": "Elegant A5 leatherbound journal with 200 lined pages. Ideal for notes, sketches, or diary entries.",
+    "category": "Stationery",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTubJpX3hya-2qibpOQF95KyCXQLw1FiNClcg&s"
+  },
+  {
+    "id": 4,
+    "name": "Gourmet Coffee Beans",
+    "price": 18.75,
+    "description": "12oz bag of whole bean Arabica coffee, medium roast, with notes of chocolate and caramel. Sourced sustainably.",
+    "category": "Groceries",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmVRKBl15dRWnCdkAihQk5CesyyQh55XF_g&s"
+  },
+  {
+    "id": 5,
+    "name": "Modern Desk Lamp",
+    "price": 45.99,
+    "description": "Sleek LED desk lamp with adjustable brightness and color temperature. USB charging port included.",
+    "category": "Home Goods",
+    "image": "https://www.cyruscrafts.com/img/cms/interior-design-products/table-&-desk-lamps/table-lamp_1.jpg"
+  }
+]
